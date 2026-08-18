@@ -37,3 +37,5 @@
 5. Project Virtual environment and libraries were installed
 6. Data Understanding
 7. Tasks Revision
+8. Data Validation and Cleaning (Extra spaces, nulls, duplicates, data types)
+9. EDA 

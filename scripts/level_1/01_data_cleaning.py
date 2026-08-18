@@ -81,6 +81,6 @@ print("7. only 'date' columns data type was converted from str to datetime")
 
 print("8. Saving data to Cleaned File")
 
-stock.to_csv("data/cleaned/clean_stock.csv")
+stock.to_csv("data/cleaned/clean_stock.csv", index=False)
 
 print("cleaned Data Saved Successfully!")
